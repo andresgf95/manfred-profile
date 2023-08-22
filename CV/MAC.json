@@ -1,0 +1,550 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Andrés",
+      "surnames": "González Fernández",
+      "title": "Junior Developer",
+      "description": "🖥 ¡Junior Dev ! 🖥\n\n🏋 Formándome y aprendiendo cosas nuevas cada día.\n\n👨‍💻 (Frontend) => { html, css, JavaScript, React, Bootstrap }\n\n👨‍💻 (Backend) => { Node Js, express, Sequelize }\n\n👨‍💻 (API_rest) => { Http, CRUD, Authentication, JWT, Postman, Insomnia }\n\n👨‍💻 (Tools) => { Visual Studio Code, Git , GitHub, BitBucket, Docker, Buckets storage, Kanvan }\n\n👨‍💻 (System) => { Linux, Windows, Bash }\n\n👨‍💻 (Framwork) => { Next Js }",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJp3Hd4kT-Lg0REeOHwIhoFOA)",
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Santiago de Compostela"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Instituto Sondaxe"
+        },
+        "roles": [
+          {
+            "name": "Encuestador",
+            "startDate": "2022-12-01",
+            "finishDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "Captación y realización de encuestas a pie de calle, con temática socio-política. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ainé Producións"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de Producción",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "-Aux. De producción en Monólogo \"Aquí Tou\" de Xosé A. Touriñán.\n-Ayudante de producción para Spot contra el Ciberacoso sexual para la Diputación de A Coruña."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Monbus"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar Administrativo",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Administrativo en la oficina de tráfico del grupo Monbus en Santiago de Compostela:\n- Gestión documental de la oficina.\n- Resolución de problemas TIC.\n- Contacto con proveedores.\n- Resolución de problemas del personal de conducción.\n- Gestión de recursos humanos.\n- Enlace interdepartamental.\n- Gestión económica de la oficina.\n- traslado de vehículos.\n- Gestión de flota y tacógrafos.\n- Atención a las personas usuarias del servicio."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TCI Galicia"
+        },
+        "roles": [
+          {
+            "name": "Técnico - Marketing Digital",
+            "startDate": "2020-11-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "- Gestión de perfiles de empresa en Google My Business.\n- SEO y SEM.\n- Analytics.\n- Gestión de Redes Sociales.\n- Creación de contenido.\n- Informes de seguimiento.\n- Informes para captar nuevos clientes.\n- Asesoramiento personalizado.\n- Fotografía y vídeo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autocares Mourenza"
+        },
+        "roles": [
+          {
+            "name": "Acompañante escolar",
+            "startDate": "2019-09-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Apoyo ocasional."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Concello de Lugo"
+        },
+        "roles": [
+          {
+            "name": "Técnico - Marketing",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-03-01",
+            "challenges": [
+              {
+                "description": "-Creación y desarrollo de la marca Arqueolucus.\n-Diseño de la plataforma web arqueolucus.gal\n-Desarrollo y presentación de un evento para la presentación de la marca Arqueolucus.\n-Organización de concurso para emprendendores \"Baixo os teus pés\".\n-Realización de vídeo promocional para el concurso \"Baixo os teus pés\"."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ECMAScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sequelize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "IFCD0210 DESARROLLO DE APLICACIONES CON TECNOLOGÍAS WEB",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Xunta de Galicia",
+          "description": "-Programación web en el entorno cliente.\n-Programación web en el entorno servidor.\n-Implantación de aplicaciones web en entorno internet, intranet y extranet.\n-Prácticas en entorno laboral."
+        },
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "ECMAScript",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Hooks",
+            "type": "technology"
+          },
+          {
+            "name": "JSON",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Leaflet",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Postman",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "S3",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLite",
+            "type": "technology"
+          },
+          {
+            "name": "SaaS",
+            "type": "technology"
+          },
+          {
+            "name": "Sequelize",
+            "type": "technology"
+          },
+          {
+            "name": "Svelte",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          },
+          {
+            "name": "WebComponents",
+            "type": "technology"
+          },
+          {
+            "name": "web hosting",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistencia a la frustración",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/andres-gonzalez-fernandez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/andresgf95",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "agonzalez.develop@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "637972671",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Postman",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Sequelize",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JSON",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      }
+    ]
+  }
+}
