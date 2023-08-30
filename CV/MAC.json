@@ -190,6 +190,12 @@
       },
       {
         "skill": {
+          "name": "CMS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
