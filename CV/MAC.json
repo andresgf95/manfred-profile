@@ -166,6 +166,12 @@
       },
       {
         "skill": {
+          "name": "Axios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
           "type": "technology"
         }
