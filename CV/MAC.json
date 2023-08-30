@@ -154,6 +154,12 @@
       },
       {
         "skill": {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
           "type": "technology"
         }
