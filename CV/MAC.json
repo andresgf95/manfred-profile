@@ -415,6 +415,15 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "COMM0112 GESTIÓN DE MARKETING Y COMUNICACIÓN",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "Xunta de Galicia"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "IFCD0210 DESARROLLO DE APLICACIONES CON TECNOLOGÍAS WEB",
         "startDate": "2023-07-01",
         "institution": {
