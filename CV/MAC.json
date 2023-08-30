@@ -196,6 +196,12 @@
       },
       {
         "skill": {
+          "name": "Canva",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
