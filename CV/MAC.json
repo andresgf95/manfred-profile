@@ -220,6 +220,12 @@
       },
       {
         "skill": {
+          "name": "Flex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "FlexBox",
           "type": "technology"
         }
