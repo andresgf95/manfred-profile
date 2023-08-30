@@ -244,6 +244,12 @@
       },
       {
         "skill": {
+          "name": "Hooks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JSON",
           "type": "technology"
         }
