@@ -328,6 +328,12 @@
       },
       {
         "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Trello",
           "type": "technology"
         }
