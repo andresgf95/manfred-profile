@@ -310,6 +310,12 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQLite",
           "type": "technology"
         }
