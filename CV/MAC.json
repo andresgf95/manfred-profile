@@ -298,6 +298,12 @@
       },
       {
         "skill": {
+          "name": "Netlify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NextJS",
           "type": "technology"
         }
