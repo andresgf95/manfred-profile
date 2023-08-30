@@ -286,6 +286,12 @@
       },
       {
         "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Visual Studio",
           "type": "technology"
         }
