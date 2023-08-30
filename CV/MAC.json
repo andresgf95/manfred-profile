@@ -286,6 +286,12 @@
       },
       {
         "skill": {
+          "name": "Matlab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Microsoft",
           "type": "technology"
         }
