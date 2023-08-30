@@ -148,6 +148,12 @@
       },
       {
         "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
           "type": "technology"
         }
