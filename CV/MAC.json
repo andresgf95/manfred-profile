@@ -226,12 +226,6 @@
       },
       {
         "skill": {
-          "name": "FlexBox",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
           "type": "technology"
         }
