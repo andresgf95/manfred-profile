@@ -298,6 +298,12 @@
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NPM",
           "type": "technology"
         }
