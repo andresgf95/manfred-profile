@@ -304,6 +304,12 @@
       },
       {
         "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQLite",
           "type": "technology"
         }
