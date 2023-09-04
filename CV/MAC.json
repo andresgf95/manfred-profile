@@ -22,6 +22,41 @@
     "jobs": [
       {
         "organization": {
+          "name": "Clink Web Value"
+        },
+        "roles": [
+          {
+            "name": "Becario de desarrollo web",
+            "startDate": "2023-07-01",
+            "finishDate": "2023-07-01",
+            "challenges": [
+              {
+                "description": "Durante mis prácticas de desarrollo web en Clink Web Value, participé en el desarrollo de una aplicación web utilizando Next.js, TypeScript y Docker, dentro de un entorno Línux.\n\nEstas prácticas me proporcionaron una valiosa experiencia en el desarrollo web con tecnologías modernas. Aprendí a utilizar Next.js para crear interfaces de usuario complejas y a implementar lógica de negocio utilizando TypeScript. También aprendí a utilizar Docker para la convención de aplicaciones y a configurar aplicaciones en entornos Linux."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Instituto Sondaxe"
         },
         "roles": [
