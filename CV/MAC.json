@@ -32,23 +32,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Tipsa Delivery"
-        },
-        "roles": [
-          {
-            "name": "Delivery Driver",
-            "startDate": "2023-09-01",
-            "finishDate": "2023-10-01",
-            "challenges": [
-              {
-                "description": "Reparto de paquetería de Amazon."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Clink Web Value"
         },
         "roles": [
