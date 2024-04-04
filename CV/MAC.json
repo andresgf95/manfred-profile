@@ -1,15 +1,15 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Andrés",
       "surnames": "González Fernández",
-      "title": "Junior Developer",
-      "description": "🖥 ¡Junior Dev ! 🖥\n\n🏋 Formándome y aprendiendo cosas nuevas cada día.\n\n👨‍💻 (Frontend) => { html, css, JavaScript, React, Bootstrap }\n\n👨‍💻 (Backend) => { Node Js, express, Sequelize }\n\n👨‍💻 (API_rest) => { Http, CRUD, Authentication, JWT, Postman, Insomnia }\n\n👨‍💻 (Tools) => { Visual Studio Code, Git , GitHub, BitBucket, Docker, Buckets storage, Kanvan }\n\n👨‍💻 (System) => { Linux, Windows, Bash }\n\n👨‍💻 (Framwork) => { Next Js }",
+      "title": "full stack developer trainee | linux sysadmin trainee",
+      "description": "🖥 ¡ Dev and Sysadmin ! 🖥\n\n🏋 Learn full stack web developement and linux lpic1 sysadmin. \n\n👨‍💻 (Frontend) => { Html, Css, JavaScript, React, Bootstrap, tailwind}\n\n👨‍💻 (Backend) => { Node Js, Express, Sequelize }\n\n👨‍💻 (Framwork) => { Next Js }\n\n👨‍💻 (Database) => { SQL, MySQL, PostgreDB, SQLite, MongoDB }\n\n👨‍💻 (API_rest) => { Http, CRUD, Authentication, JWT, Postman }\n\n👨‍💻 (CMS) => { Astro, Wordpress }\n\n👨‍💻 (Tools) => { Visual Studio Code, Git , GitHub, BitBucket, Buckets Storage, Kanvan, Trello, Scrum }\n\n👨‍💻 (System) => { Linux, Windows, Vagrant, VMWare, Virtualbox, ssh, Docker }\n\n👨‍💻 (Linux) => { Debian, Red Hat, Bash, Bash Script, Vim, Nano, apt, yum, ext4, fdisk, systemd }",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJp3Hd4kT-Lg0REeOHwIhoFOA)",
         "country": "España",
@@ -190,14 +190,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -276,25 +279,13 @@
       },
       {
         "skill": {
-          "name": "ECMAScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Flex",
+          "name": "FlexBox",
           "type": "technology"
         }
       },
@@ -514,10 +505,6 @@
             "type": "technology"
           },
           {
-            "name": "ECMAScript",
-            "type": "technology"
-          },
-          {
             "name": "Express",
             "type": "technology"
           },
@@ -639,12 +626,6 @@
       ],
       "contactMails": [
         "agonzalez.develop@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "637972671",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
