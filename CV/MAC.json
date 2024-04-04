@@ -135,23 +135,6 @@
       },
       {
         "organization": {
-          "name": "Autocares Mourenza"
-        },
-        "roles": [
-          {
-            "name": "Acompañante escolar",
-            "startDate": "2019-09-01",
-            "finishDate": "2020-12-01",
-            "challenges": [
-              {
-                "description": "Apoyo ocasional."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Concello de Lugo"
         },
         "roles": [
