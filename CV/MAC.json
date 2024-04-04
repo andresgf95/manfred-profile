@@ -710,15 +710,15 @@
         "type": "technology"
       },
       {
+        "name": "Express",
+        "type": "technology"
+      },
+      {
         "name": "Git",
         "type": "technology"
       },
       {
-        "name": "HTML",
-        "type": "technology"
-      },
-      {
-        "name": "JSON",
+        "name": "Linux",
         "type": "technology"
       },
       {
