@@ -191,6 +191,12 @@
       },
       {
         "skill": {
+          "name": "Astro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Atlassian",
           "type": "technology"
         }
@@ -234,6 +240,12 @@
       {
         "skill": {
           "name": "Canva",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Debian",
           "type": "technology"
         }
       },
@@ -371,6 +383,12 @@
       },
       {
         "skill": {
+          "name": "RedHat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "S3",
           "type": "technology"
         }
@@ -401,6 +419,12 @@
       },
       {
         "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Trello",
           "type": "technology"
         }
@@ -408,6 +432,30 @@
       {
         "skill": {
           "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vagrant",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VirtualBox",
           "type": "technology"
         }
       },
@@ -426,6 +474,12 @@
       {
         "skill": {
           "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
           "type": "technology"
         }
       }
